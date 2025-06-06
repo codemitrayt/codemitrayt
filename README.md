@@ -10,7 +10,7 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳
 
 - 💼 Full Stack Engineer
 
-- 📈 Built BL Sheet [Link](https://blsheet.com/)
+- 📈 Built BL Sheet [Link](https://app.blsheet.com/)
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
